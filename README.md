@@ -36,7 +36,7 @@ Dựa theo layout mẫu được giao, có các thành phần chính:
 > - Lúc này sẽ lấy được title và link menu tương ứng với collection được thiết lập (`link.title`, `link.url`)
 
 - *Ưu điểm:* Không bị giới hạn nhóm sản phẩm được thiết lập, khi cần tạo thêm tab collection thì chỉ cần vào phần thiết lập menu, tạo thêm menu là xong
-- *Nhược điểm:* Tốn nhiều thời gian để triển khai. Chỉ phù hợp với nhu cầu thực tế cần tạo vô hạn tab collection
+- *Nhược điểm:* Tốn nhiều thời gian để triển khai. Chỉ phù hợp với nhu cầu thực tế cần tạo nhiều collection
 
  ##### **Cách 2:**
  > - Lấy từ setting, mỗi setting tương ứng với mỗi tab bao gồm: Tên collection, link collection
