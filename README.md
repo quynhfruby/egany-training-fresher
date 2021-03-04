@@ -28,7 +28,7 @@ Dựa theo layout mẫu được giao, có các thành phần chính:
 
 **- Giải pháp:**
 
-**[Tính năng 1]** Để lấy danh sách các link collection, có 2 cách làm:
+**[Tính năng 1]** Để lấy danh sách các link collection, gợi ý 2 cách làm:
  ##### **Cách 1:**
 > - Thiết lập menu, mỗi menu item trỏ về collection tương ứng
 > - Dùng liquid để get menu
