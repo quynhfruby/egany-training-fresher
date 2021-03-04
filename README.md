@@ -6,7 +6,7 @@
  - [x] Sử dụng collections.template: https://rec.egany.com/sxLKVn
  - [x] Responsive trên các breakpoints: `375px`, `768px`, `1440px`
  - [x] Hiển thị tuỳ chọn màu sắc theo variant Màu sắc: https://rec.egany.com/4wfKQw
---> Không cần đổi hình khi sản phẩm khi hover vào variant này
+--> Không cần đổi hình sản phẩm khi hover vào hình variant
  - [ ] Load Ajax | Viewmore *(điểm cộng)*
 
 #### 2. Document bao gồm:
