@@ -35,15 +35,15 @@ Dựa theo layout mẫu được giao, có các thành phần chính:
 --> Search `linklist` trong cheatsheet liquid để biết cách sử dụng: http://cheat.markdunkley.com/
 > - Lúc này sẽ lấy được title và link menu tương ứng với collection được thiết lập (`link.title`, `link.url`)
 
---> *Ưu điểm:* Không bị giới hạn nhóm sản phẩm được thiết lập, khi cần tạo thêm tab collection thì chỉ cần vào phần thiết lập menu, tạo thêm menu là xong
---> *Nhược điểm:* Tốn nhiều thời gian để triển khai. Chỉ phù hợp với nhu cầu thực tế cần tạo vô hạn tab collection
+- *Ưu điểm:* Không bị giới hạn nhóm sản phẩm được thiết lập, khi cần tạo thêm tab collection thì chỉ cần vào phần thiết lập menu, tạo thêm menu là xong
+- *Nhược điểm:* Tốn nhiều thời gian để triển khai. Chỉ phù hợp với nhu cầu thực tế cần tạo vô hạn tab collection
 
  ##### **Cách 2:**
  > - Lấy từ setting, mỗi setting tương ứng với mỗi tab bao gồm: Tên collection, link collection
  > --> Ví dụ setting cho 1 collection bao gồm tên hiển thị và collection tương ứng: https://rec.egany.com/M0lGvG
 
---> *Ưu điểm:* Nhanh, đơn giản
---> *Nhược điểm:* Không linh động do số lượng tối đa phụ thuộc vào setting, không tuỳ ý thêm nhiều collection như giải pháp tạo menu
+- *Ưu điểm:* Nhanh, đơn giản
+- *Nhược điểm:* Không linh động do số lượng tối đa phụ thuộc vào setting, không tuỳ ý thêm nhiều collection như giải pháp tạo menu
 
 **[Tính năng 2]** Các tab con dùng để filter trong mỗi tab collection:
 **Gợi ý:** 
